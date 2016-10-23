@@ -1,0 +1,2 @@
+# bmx-spark-analyze
+Draw insights from car accident reports - This notebook shows you how to analyze car vehicle accidents based on accident reports for New York. The analysis steps in the notebook show how you can use the information about accidents to learn more about the possible causes for collisions. You will learn how to install additional Python packages, how to add external PySpark modules, and how to perform descriptive data analysis.
